@@ -1,3 +1,5 @@
 # RawDaty do DBM Beta
 
-Rawdaty w tym repo, są własnością https://discordbots.pl/
+RawDaty w tym repo, są własnością https://discordbots.pl/
+
+RawDaty wykonane są przez Support Serwisu.
